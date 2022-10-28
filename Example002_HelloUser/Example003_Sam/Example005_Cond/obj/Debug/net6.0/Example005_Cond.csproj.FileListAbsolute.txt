@@ -1,0 +1,15 @@
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\bin\Debug\net6.0\Example005_Cond.exe
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\bin\Debug\net6.0\Example005_Cond.deps.json
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\bin\Debug\net6.0\Example005_Cond.runtimeconfig.json
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\bin\Debug\net6.0\Example005_Cond.dll
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\bin\Debug\net6.0\Example005_Cond.pdb
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.csproj.AssemblyReference.cache
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.AssemblyInfoInputs.cache
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.AssemblyInfo.cs
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.csproj.CoreCompileInputs.cache
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.dll
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\refint\Example005_Cond.dll
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.pdb
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\Example005_Cond.genruntimeconfig.cache
+C:\Users\инна\Examples\Example002_HelloUser\Example003_Sam\Example005_Cond\obj\Debug\net6.0\ref\Example005_Cond.dll
